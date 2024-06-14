@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Computer Science And Technology**
 
-- 👯 I’m looking to collaborate on **DATA VSULIZATION**
+- 👯 I’m looking to collaborate on **DATA VISUALIZATION**
 
 - 🤝 I’m looking for help with **To doing Some New Thing About the Technology**
 

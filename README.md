@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaganayak" alt="jaganayak" /></a> </p>
 
-- 🔭 I’m currently working on **DESICION REVIEW SYSTEM**
+- 🔭 I’m currently working on **DATA ANALYST**
 
 - 🌱 I’m currently learning **Computer Science And Technology**
 
-- 👯 I’m looking to collaborate on **DEBIT CARD FORD DETATION**
+- 👯 I’m looking to collaborate on **DATA VSULIXATION**
 
 - 🤝 I’m looking for help with **To doing Some New Thing About the Technology**
 

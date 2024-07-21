@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+JAGABANDHU+NAYAK!;" />
 </h1>
 
-<h3 align="left">Passionate developer with a knack for creating efficient, scalable software solutions. Proficient in Python, Java, and cloud technologies. Driven by curiosity and a love for problem-solving. Committed to continuous learning and open-source contributions. Let's collaborate to build innovative, impactful projects together!</h3>
+<h3 align="left">Passionate developer with a knack for creating efficient, scalable software solutions. Proficient in Python, Java, cloud and Data Analyst technologies. Driven by curiosity and a love for problem-solving. Committed to continuous learning and open-source contributions. Let's collaborate to build innovative, impactful projects together!</h3>
 <img align="center" alt="coding" width="500" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaganayak&label=Profile%20views&color=0e75b6&style=flat" alt="jaganayak" /> </p>
 
